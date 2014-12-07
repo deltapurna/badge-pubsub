@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/deltapurna/badge-pubsub/issues"
   },
-  "homepage": "https://github.com/deltapurna/badge-pubsub"
+  "homepage": "https://github.com/deltapurna/badge-pubsub",
+  "dependencies": {
+    "axon": "^2.0.1",
+    "express": "^4.10.4",
+    "redis": "^0.12.1",
+    "underscore": "^1.7.0"
+  }
 }
